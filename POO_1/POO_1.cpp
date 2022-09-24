@@ -108,7 +108,7 @@ int main()
     p1.correr();
     p2.leer();
     p1.mostrar();
-    Alumno a1 = Alumno(27, "Yuleni", "311228201", 9.7);
+    Alumno a1 = Alumno(27, "Rosita", "123456789", 9.7);
     a1.mostrar();
     return 0;
 }
