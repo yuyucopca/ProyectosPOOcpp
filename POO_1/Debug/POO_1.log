@@ -1,0 +1,5 @@
+﻿  POO_1.cpp
+C:\Users\yulen\OneDrive\Documentos\Cursos\c++\POO_1\POO_1.cpp(96,57): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\yulen\OneDrive\Documentos\Cursos\c++\POO_1\POO_1.cpp(99,53): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\yulen\OneDrive\Documentos\Cursos\c++\POO_1\POO_1.cpp(111,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  POO_1.vcxproj -> C:\Users\yulen\OneDrive\Documentos\Cursos\c++\POO_1\Debug\POO_1.exe
